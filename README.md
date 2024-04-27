@@ -43,7 +43,7 @@
 <a href="mailto:t-venancio@hotmail.com">
   <img align="left" alt="Thiago Venâncio | Outlook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />
 </a>
-<a href="https://www.linkedin.com/in/thiagovalmeida?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/thiagovalmeida/">
   <img align="left" alt="Thiago Venâncio | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://www.instagram.com/venancio.tva">
